@@ -2,5 +2,5 @@ function SendMail(){
     var params = {
         message: document.getElementById("message").value,
     }
-    emailjs.send("service_ykw2qbk","template_rwno42r", params);
+    emailjs.send("service_986o5uv","template_xkbjo44", params);
 }
