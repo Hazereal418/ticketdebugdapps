@@ -1,3 +1,3 @@
 function myFunction() {
-    window.location = "index3.html";
+    window.location = "index2.html";
   }
